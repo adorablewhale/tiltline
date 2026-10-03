@@ -9,10 +9,14 @@
 </div>
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/adorablewhale/tiltline-access/main/TiltLine.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/adorablewhale/tiltline/main/TiltLine.lua"))()
 ```
 
-this repo is only a key-checked gate. tiltline is private to its owner: the script itself is sent by
-an authenticated server and every other installation is refused.
+this repo is just the key-checked gate. tiltline itself is private: the script gets sent by an
+authenticated server and every other install gets refused. if you're not me it won't do anything.
 
 <sub>made for matcha · built on [insui](https://github.com/adorablewhale/insui)</sub>
+
+---
+
+<div align="center"><sub>🐳 <b>adorablewhale</b> · <a href="https://adorablewhale.world/me">website</a> · <a href="https://discord.com/users/599705734002769920">discord</a> · <a href="https://github.com/adorablewhale">other projects</a></sub></div>
