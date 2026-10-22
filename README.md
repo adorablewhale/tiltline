@@ -13,7 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/adorablewhale/tiltlin
 ```
 
 this repo is just the key-checked gate. tiltline itself is private: the script gets sent by an
-authenticated server and every other install gets refused. if you're not me it won't do anything.
+authenticated server, only to players i've added by their roblox user id. if you're not on the list it tells you so and stops.
 
 <sub>made for matcha · built on [insui](https://github.com/adorablewhale/insui)</sub>
 
